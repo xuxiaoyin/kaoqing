@@ -1,0 +1,17 @@
+#content #content-right .myself-info { width: 100%; background: #fff; overflow: hidden; padding: 0 0 40px 20px; box-sizing: border-box; margin-bottom: 20px; }
+#content #content-right .myself-info h1 { font-size: 14px; color: #333333; height: 30px; margin-top: 20px; }
+#content #content-right .myself-info h1 span { color: #3a8dcc; }
+#content #content-right .myself-info ul { width: 100%; overflow: hidden; }
+#content #content-right .myself-info ul li { width: 33.33%; float: left; line-height: 30px; font-size: 12px; color: #333333; }
+#content #content-right .infi { line-height: 30px; font-size: 12px; color: #333333; }
+#content #content-right .infi .img { width: 790px; }
+#content #content-right .infi .img img { width: 656px; display: block; margin: 0 auto; }
+#content #content-right .infi .img ul { width: 100%; }
+#content #content-right .infi .img ul li { width: 20%; float: left; }
+#content #content-right .infi .img ul li p { color: #000000; font-size: 12px; text-align: center; height: 20px; line-height: 20px; }
+#content #content-right .infi .img ul li p.time { font-size: 10px; color: #adadad; line-height: 15px; }
+#content #content-right .delect { height: 70px; border-top: 2px solid #e6eff7; text-align: center; }
+#content #content-right .delect button { width: 140px; height: 40px; background: #3a8dcc; color: #fff; border: none; display: inline-block; margin-top: 30px; border-radius: 5px; margin-right: 20px; }
+#content #content-right .delect button.refuse { background: #fff; border: 1px solid #3a8dcc; color: #3a8dcc; }
+
+/*# sourceMappingURL=t-look_leave_info.css.map */

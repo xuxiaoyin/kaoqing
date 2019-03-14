@@ -1,0 +1,118 @@
+.bg{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background:url(../img/login_bg.jpg) no-repeat;
+	background-size:100% 100%;
+	background-position:left top;
+}
+.login{
+	position:fixed;
+	top:50%;
+	left:50%;
+	width:990px;
+	height:440px;
+	margin:-280px 0 0 -495px;
+	background: #fff;
+	border:1px solid #1b82c4;
+	border-radius: 5px;
+	box-shadow:-5px 0px 5px #dfebf3,   /*左边阴影*/ 
+               0px -5px 5px #dfebf3,  /*上边阴影*/ 
+               5px 0px 5px #dfebf3,  /*右边阴影*/ 
+               0px 5px 5px #dfebf3; /*下边阴影*/ 
+	.img{
+		width: 645px;
+		height: 100%;
+		float: left;
+		img{
+			width: 100%;
+			height: 100%;
+		}
+	}
+	.left{
+		width: 345px;
+		height: 100%;
+		float: left;
+		.h2{
+			width: 100%;
+			text-align: center;
+			font-size: 14px;
+			color: #0a0a0a;
+			line-height: 57px;
+			border-bottom: 1px solid #333;
+			margin-bottom: 40px;
+		}
+		.form{
+			width:100%;
+			margin:0 auto;
+			.radius_item{
+				width:300px;
+				margin-bottom:40px;
+				text-align:center;
+				font-size: 0;
+				.radius{
+					width:80px;
+					display:inline-block;
+					font-size:16px;
+					color:#666666;
+					padding-left:25px;
+					box-sizing:border-box;
+					background:url(../img/radius.png) no-repeat;
+					background-position:left center;
+					background-size:18px 18px;
+				}
+				.radius_on{
+					background:url(../img/radius_check.png) no-repeat;
+					background-position:left center;
+					background-size:18px 18px;
+					color:#2d9adf;
+					font-weight:bold;
+				}
+			}
+			.item{
+				width:300px;
+				height:40px;
+				border-radius:5px;
+				margin:0 auto 22px;
+				border:1px solid #ededed;
+				img{
+					width:20px;
+					float:left;
+					margin:10px;
+
+				}
+				input{
+					width:210px;
+					height:100%;
+					line-height:40px;
+					border:none;
+					float:left;
+					padding:0 10px;
+					background:none;
+					font-size:16px;
+				}
+
+			}
+			.button{
+				width:100%;
+				margin:0 auto;
+				margin-top:80px;
+				text-align: center;
+				button{
+					width:300px;
+					height:50px;
+					background:#2d9adf;
+					color:#fff;
+					font-size:18px;
+					border-radius:10px;
+					border:none;
+					display: inline-block;
+
+
+				}
+			}
+		}
+	}
+}

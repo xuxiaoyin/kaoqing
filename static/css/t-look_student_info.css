@@ -1,0 +1,31 @@
+#content #content-right .edit-myself-info { width: 100%; height: 215px; background: #fff; overflow: hidden; padding-left: 20px; box-sizing: border-box; margin-bottom: 20px; }
+#content #content-right .edit-myself-info h1 { font-size: 14px; color: #333333; height: 30px; margin-top: 20px; }
+#content #content-right .edit-myself-info h1 span { color: #3a8dcc; }
+#content #content-right .edit-myself-info ul { width: 100%; }
+#content #content-right .edit-myself-info ul li { width: 33.33%; float: left; line-height: 30px; font-size: 12px; color: #333333; }
+#content #content-right .title { width: 100%; text-align: center; font-weight: bold; line-height: 30px; }
+#content #content-right .form { width: 100%; height: 48px; background: #fff; padding: 0 0 0 20px; box-sizing: border-box; margin-bottom: 15px; }
+#content #content-right .form .item { margin-right: 10px; overflow: hidden; float: left; }
+#content #content-right .form .item label { width: auto; line-height: 48px; float: left; font-size: 12px; }
+#content #content-right .form .item .input { width: auto; height: 100%; float: left; font-size: 12px; color: #333333; }
+#content #content-right .form .item .input select { width: 120px; height: 20px; border: 1px solid #cccccc; border-radius: 5px; margin-top: 14px; }
+#content #content-right .form .item .input input.time { width: 120px; height: 20px; border: 1px solid #cccccc; border-radius: 5px; margin-top: 12px; }
+#content #content-right .form .item .input input.num { width: 30px; height: 20px; border: 1px solid #cccccc; border-radius: 5px; margin-top: 12px; margin-right: 5px; }
+#content #content-right .form .item .input button.submit { width: 80px; height: 25px; background: #3a8dcc; color: #fff; border: none; border-radius: 5px; margin-top: 11px; margin-left: 5px; }
+#content #content-right .table1 { width: 100%; border-top-left-radius: 5px; border-top-right-radius: 5px; overflow: hidden; }
+#content #content-right .table1 table { width: 100%; }
+#content #content-right .table1 table thead { width: 100%; background: #3a8dcc; height: 36px; }
+#content #content-right .table1 table thead tr { width: 100%; height: 36px; }
+#content #content-right .table1 table thead tr td { width: 11.11%; color: #fff; height: 36px; line-height: 36px; font-size: 14px; text-align: center; font-weight: bold; }
+#content #content-right .table1 table tbody { width: 100%; background: #fff; height: 36px; }
+#content #content-right .table1 table tbody tr { width: 100%; height: 36px; overflow: hidden; }
+#content #content-right .table1 table tbody tr td { width: 11.11%; color: #333333; height: 36px; line-height: 36px; font-size: 14px; text-align: center; border-bottom: 1px solid #d6e6f4; }
+#content #content-right .table1 table tbody tr td:last-child div span { color: #3a8dcc; margin-right: 5px; }
+#content #content-right .table1 table tbody tr td:last-child div span img { margin-right: 2px; }
+#content #content-right .table1 .table-bottom { width: 100%; background: #fff; overflow: hidden; height: 55px; }
+#content #content-right .table1 .table-bottom .delect { display: block; float: left; text-align: center; width: 80px; height: 25px; background: #3a8dcc; color: #fff; border: none; border-radius: 5px; margin-top: 11px; margin-left: 5px; }
+#content #content-right .table1 .table-bottom .page { float: right; color: #959595; margin-top: 11px; margin-right: 5px; }
+#content #content-right .table1 .table-bottom .page input { width: 28px; height: 18px; text-align: center; }
+#content #content-right .table1 .table-bottom .page button { width: 54px; height: 28px; border: 1px solid #cfddea; background: #fff; line-height: 28px; font-size: 12px; display: inline-block; }
+
+/*# sourceMappingURL=t-look_student_info.css.map */
